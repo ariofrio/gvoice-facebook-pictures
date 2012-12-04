@@ -22,6 +22,8 @@
 }
 
 .gc-message-portrait > img[alt="Blue_ghost"] {
+  width: 32px;
+
   animation-duration: 0.001s;
   -o-animation-duration: 0.001s;
   -ms-animation-duration: 0.001s;
